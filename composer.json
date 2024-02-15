@@ -1,0 +1,17 @@
+{
+    "name": "vajihe/php-race-game",
+    "autoload": {
+        "psr-4": {
+            "Vajihe\\PhpRaceGame\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vajihe",
+            "email": "vajihe.habibi@gmail.com"
+        }
+    ],
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.22"
+    }
+}
